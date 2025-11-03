@@ -31,3 +31,7 @@ This project explores trends in video game sales across:
 - Handled missing years (marked as `N/A`)
 - Verified sales columns as numeric values
 
+## 👩‍💻 Author
+**Kiranmai**  
+Entry-Level Data Analyst | SQL | Excel | Power BI  
+[LinkedIn Profile] www.linkedin.com/in/kiranmai-k-9a0ba524b
